@@ -1,0 +1,4 @@
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
+// @babel/preset-env ==> compiles down from es6 to es5
